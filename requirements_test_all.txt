@@ -1257,6 +1257,9 @@ mutagen==1.47.0
 # homeassistant.components.mutesync
 mutesync==0.0.1
 
+# homeassistant.components.mylight_systems
+mylightsystems==0.0.3
+
 # homeassistant.components.permobil
 mypermobil==0.1.8
 

@@ -1,0 +1,14 @@
+{
+  "domain": "mylight_systems",
+  "name": "MyLight Systems",
+  "codeowners": ["@acesyde"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/mylight_systems",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": ["mylightsystems==0.0.3"],
+  "ssdp": [],
+  "zeroconf": []
+}
